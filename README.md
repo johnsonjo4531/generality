@@ -1,4 +1,4 @@
-# generality
+# generality
 
 The underscore.js of generating functions
 
